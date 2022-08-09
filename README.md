@@ -7,8 +7,8 @@
 
 # Webinars/workshops
 - IFS&WHILES – workshop – SQL basics
-- IFS&WHILES - workshop - API HTTP in Postman
-- Tester programuje - Testowanie REST API dla początkujących
+- IFS&WHILES - workshop - API HTTP (Postman)
+- Tester programuje - webinar - REST API (Postman)
 
 # Skills
 - basic knowledge of testing
