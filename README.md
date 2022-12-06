@@ -24,7 +24,6 @@
 # Tools
 - Postman (basic)
 - GitHub (basic)
-- Adobe XD (medium)
 - Google Analytics (basic)
 - Google Tag Menager (basic)
 - Google Optimize (basic)
