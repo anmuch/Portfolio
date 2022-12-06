@@ -6,6 +6,7 @@
 - Politechnika Białostocka - user experience design and web analytics - postgraduate studies
 
 # Webinars/workshops
+- kursysql.pl - SQL basics
 - IFS&WHILES – workshop – SQL basics
 - IFS&WHILES - workshop - API HTTP (Postman)
 - Tester programuje - webinar - REST API (Postman)
