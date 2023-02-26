@@ -6,7 +6,6 @@
 - Politechnika Białostocka - user experience design and web analytics - postgraduate studies
 
 # Webinars/workshops/courses
-- Programowanie w języku Python (currently learning)
 - kursysql.pl - SQL basics
 - IFS&WHILES – workshop – SQL basics
 - IFS&WHILES - workshop - API HTTP (Postman)
