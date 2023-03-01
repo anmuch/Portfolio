@@ -5,6 +5,12 @@
 # Education
 - Politechnika Białostocka - user experience design and web analytics - postgraduate studies
 
+# Courses
+- Podstawy testowania IT
+- Podstawy SQL
+- Figma - podstawy projektowania interfejsów
+- UX w biznesie - efektywna praca projektanta
+
 # Webinars/workshops/courses
 - kursysql.pl - SQL basics
 - IFS&WHILES – workshop – SQL basics
@@ -20,13 +26,13 @@
 - preciseness 
 - creativity
 - design thinking
+- work in scrum methodology
 
 # Tools
 - Postman (basic)
-- GitHub (basic)
+- Git (basic)
 - Google Analytics (basic)
-- Google Tag Menager (basic)
-- Google Optimize (basic)
+- Jira/Confluence
 
 # Readed books
 - R. Smilgin - Zawód tester
